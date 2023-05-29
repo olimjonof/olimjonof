@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olimjonof
+- 👋 Hi, I’m Olimjonov Muhammadqodir
 - 👀 I’m interested in various subjects, including technology, programming, artificial intelligence, and science.
 - 🌱 I’m currently learning new programming languages, honing my skills in machine learning, and staying updated on the latest advancements in technology.
 - 💞️ I’m looking to collaborate on innovative projects that involve AI, software development, or any other exciting technology-related endeavors.
