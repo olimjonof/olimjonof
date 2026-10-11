@@ -1,6 +1,6 @@
-# Hi, I'm Muhammadqodir 👋
+# Hi, I'm Muhammadkodir 👋
 
-**Junior Java backend developer** from Uzbekistan. I build REST APIs with Spring Boot and PostgreSQL, and I'm learning to write them the way production teams do: layered architecture, tests and CI.
+**Java backend developer** from Uzbekistan. I build REST APIs with Spring Boot and PostgreSQL, and I'm learning to write them the way production teams do: layered architecture, tests and CI.
 
 ## Tech stack
 
